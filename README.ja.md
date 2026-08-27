@@ -45,12 +45,12 @@
     <td width="33.33%"><a href="https://x.com/xiaoxiaodong01/status/2092176222445035612"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 058 作例 3"></a></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 058 作例 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 058 作例 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 058 作例 6"></td>
   </tr>
   <tr>
-    <td width="33%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 058 作例 6"></td>
-    <td width="33%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 058 作例 7"></td>
-    <td width="33%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 058 作例 8"></td>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 058 作例 7"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 058 作例 8"></td>
   </tr>
 </table>
 
