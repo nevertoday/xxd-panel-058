@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 058
+# 🦁 XXD Panel 058｜诗意观念景
 
 ### 用严谨几何读懂照片的潜台词，把现实重构为诗意的观念景观
 

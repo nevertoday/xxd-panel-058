@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 058
+# 🦁 XXD Panel 058｜Poetic Conceptual Scene
 
 ### Read the photograph's subtext, then rebuild it as a poetic conceptual landscape through rigorous geometry
 

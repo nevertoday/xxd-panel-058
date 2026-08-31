@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 058
+# 🦁 XXD Panel 058｜시적 개념 풍경
 
 ### 사진의 숨은 뜻을 읽고 엄격한 기하로 시적인 개념 풍경을 재구성
 
