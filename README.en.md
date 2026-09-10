@@ -79,6 +79,15 @@ You do not need to review every option first. Send your Agent an image and say:
 The samples above can help you confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [Open the unified translation directory](references/original-prompt/): [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -95,24 +104,6 @@ The Simplified Chinese file preserves Xiaoxiaodong's wording verbatim and remain
 | **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
 | **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
 <!-- xxd-panel-benefit:end -->
-
-## How it turns your source into a distinctive result
-
-The style asks not only what is visible, but what the photograph implies, symbolizes, and brings to mind. It preserves the most meaningful subjects and relations, removes descriptive clutter, then builds a source-bound conceptual scene from a few forms, paths, distances, and spatial layers.
-
-```text
-lock identity, silhouette, and posture → read subtext, emotion, and implication → remove irrelevant literal detail → distil the central theme and symbolic relation → build a conceptual landscape with form, path, axis, perspective, and distance → retain poetry through pale space and soft handmade texture → integrate only source-relevant minimal text
-```
-
-## What makes the finished style recognizable
-
-- Subjects and relations become mountains, buildings, roads, platforms, domes, discs, or a few other symbolic forms instead of a literal scene rendering.
-- Proportion, axes, perspective, path direction, plane relations, and spatial balance establish a disciplined rational order.
-- Powder blue, mist blue, sky blue, ivory, cream, and restrained blush accents breathe inside a very pale, near-white field.
-- Subtle paper, powder, or print texture keeps the geometry handmade and gentle, avoiding sticker-like, realistic, or polished 3D finishes.
-- Text behaves like a colophon or observational note in an independent publication, lightly following axes, paths, edges, or the subject.
-
-Aesthetic constraints and rejection rules live only in the [original source brief](references/original-prompt/zh-CN.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-058-prompt.en.md)
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
