@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-058
-description: "Create XXD Panel 058 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-058 or requests the exact Panel 058 style."
+description: "XXD Panel 058｜Poetic Conceptual Scene: reads what a photo suggests or symbolises and rebuilds it as a quiet conceptual landscape of a few simplified geometric forms — hills, buildings, roads, platforms, domes, arches, discs or tree-like shapes — ordered by careful proportion, axes, perspective and paths, like a dream map or allegorical diagram. Flat shapes with restrained edges and a light paper, powder or print feel, on a near-white ground with wide whitespace, in muted airy pale blues, mist blue and sky blue balanced by ivory, cream and soft grey-green with small touches of blush pink, soft peach or dusty rose. A few small poetic words along axes or paths. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-058 or asks for poetic geometric landscapes, surreal minimal concept art or allegorical illustration from a photo."
 ---
 
 # XXD Panel 058

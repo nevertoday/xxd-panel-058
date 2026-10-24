@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 058｜Poetic Conceptual Scene: reads what a photo suggests or symbolises and rebuilds it as a quiet conceptual landscape of a few simplified geometric forms — hills, buildings, roads, platforms, domes, arches, discs or tree-like shapes — ordered by careful proportion, axes, perspective and paths, like a dream map or allegorical diagram. Flat shapes with restrained edges and a light paper, powder or print feel, on a near-white ground with wide whitespace, in muted airy pale blues, mist blue and sky blue balanced by ivory, cream and soft grey-green with small touches of blush pink, soft peach or dusty rose. A few small poetic words along axes or paths. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-058 or asks for poetic geometric landscapes, surreal minimal concept art or allegorical illustration from a photo.",
+  "short_description": "诗意观念景：读懂照片的潜台词，用少量几何形体搭成一幅安静浪漫的观念景观",
+  "zh-CN": {
+    "name": "诗意观念景",
+    "tagline": "读懂照片在暗示什么，用严谨的几何把它搭成一幅诗意的观念景观。",
+    "look": "画面不复刻现场，而是把照片暗示或象征的东西，转成少量清晰的几何形体：简化的山、建筑体、道路、平台、穹顶、拱门、圆盘或树状体，用严谨的比例、轴线、透视和路径组织成一个安静的“观念景观”，像一张梦境地图或寓意图解。形体是平面的，边缘克制，带一点纸感、粉感或版画感。背景是接近白色的淡色，留白很大；颜色以浅粉蓝、雾蓝、天空蓝为主，配象牙白、奶油白、柔和灰绿，点几处腮红粉、柔桃色或灰玫瑰。文字只有几个小小的诗性词句，沿轴线或路径放在留白里。",
+    "traits": ["潜台词", "几何极简", "象征形体", "理性结构", "柔和手工质感", "淡色留白"],
+    "good": [
+      "带有象征意味的风景：一条通向远方的路、海边的灯塔、山顶的一棵树",
+      "有孤独、等待或远行意味的画面：站台上的人、窗前的背影、一扇打开的门",
+      "想做成概念海报、书封或诗集插图的照片"
+    ],
+    "poor": [
+      "想要写实保留现场细节的需求，这套风格会把场景改写成几何寓言",
+      "信息量大、需要逐项呈现的图：菜单、商品陈列、热闹的街市",
+      "想要高饱和撞色、复杂装饰、3D 或卡通效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Poetic Conceptual Scene",
+    "tagline": "Reads what your photo implies and builds it, with rigorous geometry, into a poetic conceptual landscape.",
+    "look": "Instead of copying the scene, it turns what the photo hints at or stands for into a few clear geometric forms: simplified hills, buildings, roads, platforms, domes, arches, discs or tree-like shapes, arranged by careful proportion, axes, perspective and paths into a quiet conceptual landscape, like a dream map or an allegorical diagram. The forms are flat with restrained edges and a slight paper, powder or print feel. The ground is a near-white tint with a great deal of space; colours are mainly pale blue, mist blue and sky blue with ivory, cream and soft grey-green, plus a few touches of blush pink, soft peach or dusty rose. Text is just a few small poetic words placed along an axis or path in the open space.",
+    "traits": ["Subtext", "Geometric minimalism", "Symbolic forms", "Rational structure", "Soft handmade feel", "Pale whitespace"],
+    "good": [
+      "Landscapes with symbolic weight: a road leading into the distance, a lighthouse by the sea, a lone tree on a hilltop",
+      "Pictures that suggest solitude, waiting or departure: someone on a platform, a figure at a window, an open door",
+      "Photos for a concept poster, a book cover or a poetry-collection illustration"
+    ],
+    "poor": [
+      "Requests to keep the real scene's detail, since the style rewrites it as a geometric fable",
+      "Information-heavy images that must show everything: menus, product displays, bustling markets",
+      "Requests for saturated clashing colour, ornate decoration, 3D or cartoons"
+    ]
+  },
+  "ja": {
+    "name": "詩的コンセプト風景",
+    "tagline": "写真がほのめかしていることを読み取り、厳密な幾何学で詩的なコンセプト風景に組み立てます。",
+    "look": "現場をそのまま写すのではなく、写真が暗示したり象徴したりしているものを、少数のはっきりした幾何学の形に置き換えます。簡略化した山、建物、道、台、ドーム、アーチ、円盤、樹のような形を、厳密な比率、軸線、遠近、道筋で組み、静かなコンセプトの風景にします。夢の地図や寓意の図解のようです。形は平面的で縁は控えめ、紙や粉や版画のような質感がわずかにあります。地はほぼ白の淡い色で余白は大きく、色は淡いピンクがかった青、霧のような青、空色を中心に、アイボリー、生成り、柔らかな灰緑、そこにブラッシュピンク、柔らかなピーチ、くすんだローズを数か所。文字は小さな詩的な言葉が少しだけで、軸線や道筋に沿って余白に置かれます。",
+    "traits": ["言外の意味", "幾何学のミニマル", "象徴の形", "理性的な構造", "柔らかな手仕事感", "淡い余白"],
+    "good": [
+      "象徴的な趣のある風景：遠くへ続く道、海辺の灯台、丘の上の一本の木",
+      "孤独、待つこと、旅立ちを感じさせる画面：ホームに立つ人、窓辺の後ろ姿、開いた扉",
+      "コンセプトポスター、本の表紙、詩集の挿絵にしたい写真"
+    ],
+    "poor": [
+      "現場の細部をそのまま残したい場合（このスタイルは場面を幾何学の寓話に書き換えます）",
+      "情報量が多く、すべてを見せる必要がある画像：メニュー、商品の陳列、にぎやかな市場",
+      "高彩度の色のぶつかり、凝った装飾、3D、キャラクター風を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "시적 개념 풍경",
+    "tagline": "사진이 암시하는 것을 읽어 내고, 엄격한 기하로 시적인 개념 풍경을 짜 올립니다.",
+    "look": "현장을 그대로 옮기지 않고, 사진이 암시하거나 상징하는 것을 몇 개의 뚜렷한 기하 형태로 바꿉니다. 단순화한 산, 건물, 길, 단, 돔, 아치, 원반, 나무 같은 형태를 엄격한 비례, 축, 원근, 길의 흐름으로 짜서 조용한 개념 풍경을 만듭니다. 꿈의 지도나 우의적 도해 같습니다. 형태는 평면적이고 가장자리는 절제되었으며 종이, 가루, 판화 같은 질감이 살짝 납니다. 바탕은 거의 흰 연한 색에 여백이 아주 넓고, 색은 연분홍빛 파랑, 안개빛 파랑, 하늘색을 중심으로 아이보리, 크림색, 부드러운 회녹색에 블러시 핑크, 소프트 피치, 더스티 로즈를 몇 군데 둡니다. 글자는 작은 시적 단어 몇 개뿐이며 축이나 길을 따라 여백에 놓입니다.",
+    "traits": ["숨은 뜻", "기하 미니멀", "상징 형태", "이성적 구조", "부드러운 수작업 질감", "연한 여백"],
+    "good": [
+      "상징성이 있는 풍경: 멀리 이어지는 길, 바닷가 등대, 언덕 위 나무 한 그루",
+      "고독, 기다림, 떠남이 느껴지는 장면: 승강장에 선 사람, 창가의 뒷모습, 열린 문",
+      "콘셉트 포스터, 책 표지, 시집 삽화로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "현장의 세부를 그대로 남기고 싶은 경우(이 스타일은 장면을 기하학적 우화로 다시 씁니다)",
+      "정보가 많아 하나하나 보여 줘야 하는 이미지: 메뉴판, 상품 진열, 북적이는 시장",
+      "고채도 색 충돌, 화려한 장식, 3D, 캐릭터 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مشهد مفاهيمي شاعري",
+    "tagline": "يقرأ ما تلمّح إليه صورتك ويبنيه بهندسة صارمة في منظر مفاهيمي شاعري.",
+    "look": "لا يكرر المشهد، بل يحوّل ما توحي به الصورة أو ترمز إليه إلى بضعة أشكال هندسية واضحة: تلال ومبانٍ وطرق ومنصات وقباب وأقواس وأقراص وأشكال تشبه الأشجار، كلها مبسطة ومرتبة بنِسب دقيقة ومحاور ومنظور ومسارات في منظر مفاهيمي هادئ، كأنه خريطة حلم أو رسم رمزي توضيحي. الأشكال مسطحة بحواف متحفظة، وفيها لمسة خفيفة من ملمس الورق أو البودرة أو الطباعة. الأرضية لون فاتح قريب من الأبيض مع فراغ واسع جداً، والألوان أساساً أزرق وردي فاتح وأزرق ضبابي وأزرق سماوي مع العاجي والكريمي والأخضر الرمادي الناعم، ولمسات قليلة من الوردي الخجول والخوخي الناعم والوردي الباهت. النص بضع كلمات شاعرية صغيرة توضع على محور أو مسار في الفراغ.",
+    "traits": ["المعنى الضمني", "بساطة هندسية", "أشكال رمزية", "بنية عقلانية", "ملمس يدوي ناعم", "فراغ فاتح"],
+    "good": [
+      "مناظر لها ثقل رمزي: طريق يمتد إلى البعيد، منارة على البحر، شجرة وحيدة على تلة",
+      "صور توحي بالوحدة أو الانتظار أو الرحيل: شخص على رصيف محطة، ظل عند نافذة، باب مفتوح",
+      "صور لملصق مفاهيمي أو غلاف كتاب أو رسم لديوان شعر"
+    ],
+    "poor": [
+      "طلب الاحتفاظ بتفاصيل المشهد الحقيقي، لأن الأسلوب يعيد كتابته حكايةً هندسية رمزية",
+      "صور مثقلة بالمعلومات يجب أن تُعرض كلها: قوائم الطعام، عروض المنتجات، الأسواق المزدحمة",
+      "طلب ألوان مشبعة متصادمة أو زخرفة كثيفة أو مجسمات ثلاثية الأبعاد أو رسوم كرتونية"
+    ]
+  }
+}
